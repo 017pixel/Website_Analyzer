@@ -58,9 +58,7 @@ Das Skript sammelt viele verschiedene Datenpunkte und zeigt sie sauber strukturi
 Damit die KI-Analyse funktioniert, muss ein **Google Gemini API-Schlüssel** hinterlegt werden.
 
 - Einen kostenlosen API-Schlüssel gibt’s über Google AI Studio.  
-- Danach einfach im Skript den Platzhalter durch den eigenen Schlüssel ersetzen.
-
-⚠️ Wichtig: API-Schlüssel ist von mir, der ist kostenlos, kann man benutzen, doch wenn möglich eigenen verwenden!!!
+- Danach einfach beim Beginn des Programms nach der Anfrage eines API-Schlüssels einfügen.
 
 ---
 
@@ -85,7 +83,7 @@ Das Tool zeigt danach gegliedert:
 
 ---
 
-Viel Spaß beim Analysieren! 🔍✨  
+Viel Spaß beim Analysieren! ✨  
 Für Feedback oder Erweiterungen: einfach melden 😄
 
 ---
